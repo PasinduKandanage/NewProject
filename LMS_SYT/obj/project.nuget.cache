@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bqtRo/7nCCMjMRmpTeiHVempepkihReLW6RW7qEO5yetQ30X0LBUVpUMjwnYM1palvsjTln+rxuX8ql+v68+uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PASINDU\\Downloads\\3rd_Sem\\3rd Sem COM Laboratory Practicals\\Student_Management_System\\LMS_SYT\\Student_Management_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PASINDU\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
